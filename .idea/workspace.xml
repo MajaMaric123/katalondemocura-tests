@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0b2cbce-f8e7-4172-8135-1b1d07ce2206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AddCustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CustomersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ManagerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OpenAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppointmentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppointmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SummaryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddCustomerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomersList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ManagerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OpenAccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RequestTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +48,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Maja/Selenijum/SeleniumProject",
+    "last_opened_file_path": "D:/Maja/Selenijum/Zadaci/SeleniumProject",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.RequestTest">
+  <component name="RunManager" selected="TestNG.AppointmentTest">
+    <configuration name="AppointmentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppointmentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RequestTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AppointmentTest" />
         <item itemvalue="TestNG.RequestTest" />
         <item itemvalue="TestNG.RequestTest (1)" />
       </list>
